@@ -1,0 +1,19 @@
+﻿Build started 2015-04-09 17:40:33.
+     1>Project "C:\Users\Dominik\Desktop\spelnianie ograniczen\CSP_app\CSP_app\CSP_app.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Backtracking.cpp ForwardChecking.cpp main.cpp
+         main.cpp
+         ForwardChecking.cpp
+         Backtracking.cpp
+         Generowanie kodu...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Dominik\Desktop\spelnianie ograniczen\CSP_app\x64\Debug\CSP_app.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Dominik\Desktop\spelnianie ograniczen\CSP_app\x64\Debug\CSP_app.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Dominik\Desktop\spelnianie ograniczen\CSP_app\x64\Debug\CSP_app.lib" /MACHINE:X64 /PROFILE x64\Debug\Backtracking.obj
+         x64\Debug\ForwardChecking.obj
+         x64\Debug\main.obj
+     1>LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+         CSP_app.vcxproj -> C:\Users\Dominik\Desktop\spelnianie ograniczen\CSP_app\x64\Debug\CSP_app.exe
+     1>Done Building Project "C:\Users\Dominik\Desktop\spelnianie ograniczen\CSP_app\CSP_app\CSP_app.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.36
